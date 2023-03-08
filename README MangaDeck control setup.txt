@@ -19,19 +19,46 @@ for rotate right flick the left stick right
 for rotate reverse flick the left stick up 
 for rotate left flick the left stick left
 
-and for Cubari press down on the left stick to make it click (not the direction down like actually pushing it against the steam deck press)
+and for Cubari press down on the left stick to make it click 
+(not the direction down like actually pushing it against the steam deck press)
 
-make sure after each trigger you accept that it replaces another shortcut and then press apply in the bottom right corner
+make sure after each trigger you accept that it replaces another shortcut 
+and then press apply in the bottom right corner
 
-with that done make sure the mangadeck shortcut folder has the check box checked meaning it is activated.
+with that done make sure the mangadeck shortcut folder has the check 
+box checked meaning it is activated.
 
-now if you hold down the three line button and flick the left stick right you will see that the screen rotates to where the bottom of the
-screen is where you flicked. And if you hold the three line button and press down on the left joystick it will automatically open your default webrowser to cubari.moe
+now if you hold down the three line button and flick the left stick 
+right you will see that the screen rotates to where the bottom of the
+screen is where you flicked. And if you hold the three line button and 
+press down on the left joystick it will automatically open your default
+ webrowser to cubari.moe
 
-Optional: screen shot functionality
-under shortcuts click on spectacle and then click on Capture entire desktop, then click on the custom shortcut box like before and hold the same three line button while hitting the left bumper
-this is how you can take a screen shot. Everytime you take a screen shot there is a popup but there is a way to stop that but Imma be honest I forgot how and idk how to bring the popup back to re create the solution
-so just ask me to help u 
+clicking the right stick will make google chrome fullscreen which is what
+I recommend using for mangadeck since it allows for the chrome extension
+and its what I modeled this entire thing after.
+
+New functionality: the left bumper is now used as a way to open 
+and close the side tab while reading a manga, this allows the screen to only be a manga
+panel without having any other useless details that may
+block or distract you from reading
+
+Stretch mode: if you click down on the left stick in the same 
+way you would open up cubari.moe without holding the 3 line button, then cubari.moe will 
+turn into a stretched panel mode, in which all panels will
+cover the entire screen, this is obviously optional since it 
+slightly distorts the image but it also covers the entire screen.
+
+Optional: screen shot functionality under shortcuts click 
+on spectacle and then click on Capture entire desktop, 
+then click on the custom shortcut box like before and hold 
+the same three linebutton while hitting the left bumper
+this is how you can take a screen shot. Everytime you take 
+a screen shot there is a popup but there is a way to stop 
+that but Imma be honest I forgot how and idk how to bring 
+the popup back to re create the solution so just ask me to help u 
+
+
 
 that should be it if u have any questions u can just msg me duh u know me.
 
