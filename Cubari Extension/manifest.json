@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Cubari MangaDeck",
+    "description": "removes visual features so it wont obscure manga panel, intended use is for tablet/steamdeck",
+    "version": "0.0.0.1",
+    "icons": {
+        "16": "images/hmph.png",
+        "48": "images/hmph.png",
+        "128": "images/hmph.png"
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "images/hmph.png",
+            "48": "images/hmph.png",
+            "128": "images/hmph.png"
+        }
+    },
+    "content_scripts": [{
+        "matches": ["https://cubari.moe/*","https://guya.cubari.moe/*"],
+        "css": ["main.css"],
+        "js": ["main.js"]
+    }]
+}

@@ -1,0 +1,54 @@
+
+@media (orientation: landscape) {
+    div.UI.List.ReaderImageWrapper img  {
+        aspect-ratio: 16 / 10;
+    }
+}
+@media (orientation: portrait) {
+    div.UI.List.ReaderImageWrapper img  {
+        aspect-ratio: 10 / 16;
+    }
+}
+
+
+html div.UI.List.ReaderImageWrapper{
+    cursor: none;
+}
+
+html div.hover-prev {
+    cursor: none;
+}
+
+html div.hover-next {
+    cursor: none;
+}
+
+html div.hover-prev {
+    opacity: 0 !important;
+}
+
+html div.hover-next {
+    opacity: 0 !important;
+}
+
+html div.hover-arrow {
+    opacity: 0;
+}
+
+html div.hover-sub {
+    opacity: 0;
+}
+
+html div.hide-side-actual::before {
+    opacity: 0 !important;
+}
+
+html div.hide-side-actual::after {
+    opacity: 0 !important;
+}
+
+html div.zoom-level {
+    opacity: 0 !important;
+}
+
+
