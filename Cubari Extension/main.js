@@ -9,9 +9,6 @@ document.addEventListener('keydown', function(event) {
             document.body.classList.add('sidebar-true');
         }
     }
-});
-
-document.addEventListener('keydown', function(event) {
     if(event.keyCode == 117) {
         if (document.body.classList.contains('fit-height')) {
             document.body.classList.remove('fit-height');
@@ -47,4 +44,8 @@ document.addEventListener('keydown', function(event) {
             document.body.classList.add('fit-all');
         }
     }
+    if(event.keycode == 37 || event.keycode == 39) {
+        document.img.click()
+    }
 });
+
