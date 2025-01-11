@@ -1,10 +1,8 @@
 1. Open steam in desktop mode on the steam deck and go to steam -> settings -> controller
 Desktop configuration. wait for a minute or two the first time you open this tab up it takes awhile
 
-next look at the image titled mangadeck layout and make your layout look identical (F3 is now F6)
-
-for the small square above the deck labeled directional pad, make it a directional swipe
-and make the top part of the dpad the mouse wheel down and make the bottom part of the dpad mouse wheel up
+To set up your controller settings, go to the steam input controller desktop settings, and use the layout
+gotten at this link steam://controllerconfig/413080/3405232829
 
 now that this is all set up, we can start setting up the shortcuts
 
@@ -20,7 +18,7 @@ for rotate reverse flick the left stick up
 for rotate left flick the left stick left
 
 and for Cubari press down on the left stick to make it click 
-(not the direction down like actually pushing it against the steam deck press)
+(not the direction down like actually pushing it against the steam deck)
 
 make sure after each trigger you accept that it replaces another shortcut 
 and then press apply in the bottom right corner
@@ -29,10 +27,9 @@ with that done make sure the mangadeck shortcut folder has the check
 box checked meaning it is activated.
 
 now if you hold down the three line button and flick the left stick 
-right you will see that the screen rotates to where the bottom of the
-screen is where you flicked. And if you hold the three line button and 
-press down on the left joystick it will automatically open your default
- webrowser to cubari.moe
+right you will see that the screen rotates to where you flicked. And if you 
+hold the three line button and press down on the left joystick it will 
+automatically open your default webrowser to cubari.moe
 
 clicking the right stick will make google chrome fullscreen which is what
 I recommend using for mangadeck since it allows for the chrome extension
@@ -49,16 +46,6 @@ turn into a stretched panel mode, in which all panels will
 cover the entire screen, this is obviously optional since it 
 slightly distorts the image but it also covers the entire screen.
 
-Optional: screen shot functionality under shortcuts click 
-on spectacle and then click on Capture entire desktop, 
-then click on the custom shortcut box like before and hold 
-the same three linebutton while hitting the left bumper
-this is how you can take a screen shot. Everytime you take 
-a screen shot there is a popup but there is a way to stop 
-that but Imma be honest I forgot how and idk how to bring 
-the popup back to re create the solution so just ask me to help u 
-
-
 
 that should be it if u have any questions u can just msg me duh u know me.
-steam://controllerconfig/413080/3173200916
+
