@@ -8,13 +8,6 @@
         "48": "images/hmph.png",
         "128": "images/hmph.png"
     },
-    "page_action": {
-        "default_icon": {
-            "16": "images/hmph.png",
-            "48": "images/hmph.png",
-            "128": "images/hmph.png"
-        }
-    },
     "content_scripts": [{
         "matches": ["https://cubari.moe/*","https://guya.cubari.moe/*"],
         "css": ["main.css"],
