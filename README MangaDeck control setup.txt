@@ -19,6 +19,7 @@ for rotate left flick the left stick left
 
 and for Cubari press down on the left stick to make it click 
 (not the direction down like actually pushing it against the steam deck)
+(it seems you should only need to do it for normal right and reverse)
 
 make sure after each trigger you accept that it replaces another shortcut 
 and then press apply in the bottom right corner
