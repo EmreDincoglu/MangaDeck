@@ -1,0 +1,34 @@
+[Custom Commands][net.local.xdg-open.desktop]
+Exec=xdg-open https://cubari.moe/
+Name=Cubari
+
+[Custom Commands][net.local.xrandr-2.desktop]
+Exec=xrandr -o normal
+Name=Screen right
+
+[Custom Commands][net.local.xrandr-3.desktop]
+Exec=xrandr -o right
+Name=Screen normal
+
+[Custom Commands][net.local.xrandr-4.desktop]
+Exec=xrandr -o inverted
+Name=Screen left
+
+[Custom Commands][net.local.xrandr.desktop]
+Exec=xrandr -o left
+Name=Screen reverse
+
+[net.local.xdg-open.desktop][Global Shortcuts]
+_launch=Ctrl+F6
+
+[net.local.xrandr-2.desktop][Global Shortcuts]
+_launch=Ctrl+F4
+
+[net.local.xrandr-3.desktop][Global Shortcuts]
+_launch=Ctrl+F2
+
+[net.local.xrandr-4.desktop][Global Shortcuts]
+_launch=Ctrl+F8
+
+[net.local.xrandr.desktop][Global Shortcuts]
+_launch=Ctrl+F9
